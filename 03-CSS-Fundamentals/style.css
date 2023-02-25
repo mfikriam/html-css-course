@@ -1,11 +1,12 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
+/* * {
+  border-top: 10px solid #1098ad;
+} */
+
+body {
   font-family: sans-serif;
   color: #444;
+
+  border-top: 10px solid #1098ad;
 }
 
 h1,
@@ -116,3 +117,30 @@ a:active {
 }
 
 /* LVHA */
+
+/* Resolving Conflicts */
+
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */
+
+/* nav a:link,
+nav strong {
+  font-size: 18px;
+} */
+
+nav {
+  font-size: 18px;
+}
