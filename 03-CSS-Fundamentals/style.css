@@ -42,6 +42,7 @@ p {
 
 li {
   font-size: 20px;
+  list-style: square;
 }
 
 /* footer p {
