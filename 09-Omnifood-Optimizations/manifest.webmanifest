@@ -1,0 +1,16 @@
+{
+  "name": "Omnifood Web App",
+  "short_name": "Omnifood",
+  "icons": [
+    {
+      "src": "img/favicon-192.img",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/favicon-512.img",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
